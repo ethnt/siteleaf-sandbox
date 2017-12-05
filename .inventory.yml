@@ -1,114 +1,114 @@
 ---
-time: 1512151326
+time: 1512493306
 inventory:
   css/main.css:
     sha: d229a140dac1bd27a33c1ed53f3add6e37950e1f
-    time: 1512151326
+    time: 1512493307
   index.html:
-    sha: bed220f9a53ffca02667faab585e9095ed8fa675
-    time: 1512151326
+    sha: b836549a1cf4707b0f1b0717ab07a2d467ccd60b
+    time: 1512493307
   assets/css/style.css:
     sha: b2d31f82618ace0ffa3b8062aa21c855ce2883f0
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/banner.js:
     sha: 6bd551ef946a8760a39b70073c5763cac7f63592
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/anchor.min.js:
     sha: 35575f1cc30658747238d3af88ab8692e3fdffc1
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/anchor.js:
     sha: 800ccf1c1ddda0f75826eb34a3a71486b95fd763
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/favicon.ico:
     sha: 2a6c7671068fedf90041ded36c4c16fe6dc435bb
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/fonts/fonts.css:
     sha: c0b57b8e571c99b8a89acbb09f8e8d9955221eda
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/fonts/anchorjs-extras.svg:
     sha: 5e14922b21e357ca8dc8b18a027537cebe780d3c
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/fonts/anchorjs-extras.ttf:
     sha: 1971eb181461c602943619e4fde34e7ff2eac703
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/fonts/anchorjs-extras.eot:
     sha: 350ea35b4bbbf4c0eeac916a14adc06720053242
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/fonts/anchorjs-extras.woff:
     sha: fb3b1043391ba9135793c717545069f0e6417ac7
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/grunticon/png/grunticon-link.png:
     sha: eefa53f0c28b06cce95d78f7647a3de686a159bd
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/grunticon/grunticon.loader.js:
     sha: de179742638eeb72329d5993a8dcf1847ecc62c1
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/grunticon/icons.fallback.css:
     sha: 832f36fe7eb0a5cb7925b68c2b0e824eac8c82d5
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/grunticon/icons.data.svg.css:
     sha: ea5bd003c91167cc35bd255cdcdb32297df9a5a3
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/grunticon/icons.data.png.css:
     sha: f0bab8602441f9a8983bd57122836a93060037ea
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/link.svg:
     sha: 5aaef2fcac2b12fcc1cbce887c8b7b4528825924
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/gh-link.svg:
     sha: 24abb41cc900701e7d27bde497cc2549a3088e19
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/anchorlinks2.png:
     sha: 9118b1ecca4a616af6d15bbb3fab678a183f3006
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/anchorjs_logo.png:
     sha: 06c8b4df5078d3fdb98eb104dd47c837a9a6c5bc
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/anchoring-links.png:
     sha: 9d28abcf8063601a2b8852eb65de0d43b8c4732d
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/gh_link.svg:
     sha: 8e43abb44944fb94bef26bbbb2fffb4a19d93871
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/hyperlink.svg:
     sha: 3a8745a683ae69231277e554eb7a12668a6f5adf
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/primer-md.png:
     sha: 1db2cb60cacd1f2422560ab6e548375128e49c57
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/img/mini-logo.png:
     sha: 3806c67b04eb57adbfd2aabf540aa8cddd4f9619
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/anchor.js:
     sha: 800ccf1c1ddda0f75826eb34a3a71486b95fd763
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/styles.css:
     sha: b4b71afbe75eb9dd3f31612eef7783008138c880
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/docs/scripts.js:
     sha: c283e73a41060ed1fe8840a899c8d14e9b96755b
-    time: 1512151326
+    time: 1512493307
   feed.xml:
-    sha: 829a7889cdef709caeece7889a8c4a98aac322b7
-    time: 1512151326
+    sha: d0f309353039648fb3af3190bf26954314205ffd
+    time: 1512493307
   CNAME:
-    sha: 9d58a397f603e9e04a37825907cabf374fb98961
-    time: 1512151326
+    sha: 643fd6860570c495e0d8c7e8ab23b1fe5ddf0874
+    time: 1512493307
   ".siteleaf_done":
-    sha: 9df64e1f1fb52c93e23368fa4982ec8740d28a2c
-    time: 1512151326
+    sha: 39e0ac91853bdd25dc588ce389906ae4c66c067e
+    time: 1512493307
   ".inventory.yml":
     sha: e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/.eslintrc:
     sha: 9f486e059d43e9abea56d2268cdb30c66d5451e6
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/.travis.yml:
     sha: 93f5f8b3c4848d07ca07dfc9c72ad55b58d8708f
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/.npmignore:
     sha: 536e87fb74ac18b88bb495b465189a72717d6d54
-    time: 1512151326
+    time: 1512493307
   assets/javascript/anchor-js/.gitattributes:
     sha: 72af4ecd33e0c0054cd7a39d314b6b752cdc2067
-    time: 1512151326
+    time: 1512493307
