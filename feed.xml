@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Rendering</title>
-    <link>http://test-rendering.staging.siteleaf.biz/</link>
-    <atom:link href="http://test-rendering.staging.siteleaf.biz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Dec 2017 17:01:38 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Dec 2017 17:01:38 +0000</lastBuildDate>
+    <title>Rendering Inventory</title>
+    <link>http://rendering-inventorys.staging.siteleaf.biz/</link>
+    <atom:link href="http://rendering-inventorys.staging.siteleaf.biz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 13 Dec 2017 15:24:23 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Dec 2017 15:24:23 +0000</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
   </channel>
